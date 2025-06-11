@@ -1,0 +1,14 @@
+googlemaps==4.10.0
+requests==2.31.0
+beautifulsoup4==4.12.2
+pandas==2.0.3
+selenium==4.10.0
+webdriver-manager==3.8.6
+fake-useragent==1.2.0
+schedule==1.2.0
+google-generativeai==0.1.0
+
+#pip install -r requirements.txt
+#pip freeze
+# pip install googlemaps requests beautifulsoup4 pandas selenium webdriver-manager fake-useragent schedule google-generativeai
+# pip install google-generativeai==0.1.0
